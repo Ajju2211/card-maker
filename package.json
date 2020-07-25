@@ -1,0 +1,46 @@
+{
+  "name": "card-maker",
+  "version": "1.0.0",
+  "description": "This will make a card for recipe or menu and many more ....",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ajju2211/card-maker.git"
+  },
+  "keywords": [
+    "card-maker",
+    "template",
+    "maker",
+    "jimp",
+    "image",
+    "banner",
+    "banner",
+    "text",
+    "overlay",
+    "image",
+    "recipe",
+    "card",
+    "maker",
+    "menu",
+    "card",
+    "maker",
+    "menu",
+    "template",
+    "designer",
+    "template",
+    "maker"
+  ],
+  "author": "Ajju2211",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ajju2211/card-maker/issues"
+  },
+  "homepage": "https://github.com/Ajju2211/card-maker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jimp": "^0.14.0"
+  }
+}
